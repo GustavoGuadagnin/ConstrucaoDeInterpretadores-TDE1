@@ -1,1 +1,146 @@
-<<
+%SPDF-1.0
+
+1 0 obj
+
+/Type /Catalog
+/Pages 2 0 R
+/Metadata 7 0 R
+/Outlines 8 0 R
+>>
+endobj
+
+2 0 obj
+
+/Type /Pages
+/Kids [3 0 R 4 0 R]
+/Count 2
+>>
+endobj
+
+3 0 obj
+
+/Type /Page
+/Parent 2 0 R
+/Resources 
+/Font 
+/F1 5 0 R
+>>
+/MediaBox [0 0 612.0 792.0]
+/CropBox [10.5 10.5 601.5 781.5]
+/Rotate 0
+/Contents 6 0 R
+>>
+endobj
+
+4 0 obj
+
+/Type /Page
+/Parent 2 0 R
+/Resources 
+/Font 
+/F1 5 0 R
+>>
+>>
+/MediaBox [0 0 612.0 792.0]
+/CropBox [10.5 10.5 601.5 781.5]
+/Rotate 0
+/Contents 9 0 R
+
+5 0 obj
+
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/FontDescriptor 10 0 R
+>>
+endobj
+
+6 0 obj
+<< /Length 175 >>
+stream
+BT
+/F1 24 Tf
+100 700 Td
+(Relatório Financeiro: Primeiro Trimestre) Tj
+/F1 12 Tf
+0 -50 Td
+(Total de vendas: 1423 unidades) Tj
+0 -20 Td
+(Receita total: 158432.75 reais) Tj
+ET
+
+7 0 obj
+
+/Title (Relatório Financeiro Trimestral)
+/Author (Departamento Financeiro)
+/CreationDate (D:20230418090000)
+/Keywords (finanças, relatório, trimestral)
+/Version 1.2
+/PageCount 2
+>>
+endobj
+
+8 0 obj
+
+/Type /Outlines
+/Count 3
+/First 11 0 R
+/Last 13 0 R
+endobj
+
+9 0 obj
+<< /Length 322 >>
+stream
+BT
+/F1 18 Tf
+100 700 Td
+(Detalhamento por Categoria) Tj
+/F1 12 Tf
+0 -40 Td
+(Produto A: 523 unidades, valor unitário 89.99, total 47054.77) Tj
+0 -20 Td
+(Produto B: 347 unidades, valor unitário 125.50, total 43548.50) Tj
+0 -20 Td
+(Produto C: 553 unidades, valor unitário 122.65, total 67825.45) Tj
+0 -40 Td
+(Média de vendas por produto: 474.33 unidades) Tj
+ET
+endstream
+endobj
+
+10 0 obj
+
+/Type /FontDescriptor
+/FontName /Helvetica
+/Flags 32
+/FontBBox [-166 -225 1000 931]
+/ItalicAngle 0
+/Ascent 718
+/Descent -207
+/CapHeight 718
+/StemV 88
+/MissingWidth 278
+
+xref
+0 11
+0000000000 65535 f
+0000000010 00000 n
+0000000099 00000 n
+0000000163 00000 n
+0000000344 00000 n
+0000000525 00000 n
+0000000624 00000 n
+0000000852 00000 n
+0000001048 00000 n
+0000001126 00000 n
+0000001500 00000 n
+
+trailer
+
+/Size 11
+/Root 1 0 R
+/Info 7 0 R
+>>
+startxref
+2000
+%%EOF
