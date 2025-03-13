@@ -26,6 +26,6 @@
       "detectar_objetos_nao_referenciados": true,
       "detectar_ciclos_referencia": true,
       "analisar_eficiencia_armazenamento": true,
-      "sugerir_otimizacoes": true,
+      "sugerir_otimizacoes": true
   }
 }
