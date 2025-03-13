@@ -4,8 +4,7 @@
   "validar_referencias": true,
   "validar_xref": true,
   "validar_trailer": true,
-  "gerar_sumario": true,
-  "listagem_hierarquica": true,
+  "gerar_sumario": true
   "validar_estrutura_hierarquica": true,
   "estatisticas": {
       "contar_objetos": true,
@@ -26,6 +25,6 @@
       "detectar_objetos_nao_referenciados": true,
       "detectar_ciclos_referencia": true,
       "analisar_eficiencia_armazenamento": true,
-      "sugerir_otimizacoes": true
+      "sugerir_otimizacoes": true,
   }
 }
