@@ -16,6 +16,6 @@
   "analise_avancada": {
       "detectar_objetos_nao_referenciados": true,
       "detectar_ciclos_referencia": false,
-      "analisar_eficiencia_armazenamento": true,
+      "analisar_eficiencia_armazenamento": true
   }
 }
