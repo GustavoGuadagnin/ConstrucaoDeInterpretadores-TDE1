@@ -6,7 +6,7 @@
   "validar_trailer": true,
   "validar_estrutura_hierarquica": true,
   "extrair_metadados": true,
-  "nivel_detalhe": "completo",
+  "nivel_detalhe": "completo"
   "conteudo": {
       "extrair_texto": true,
       "gerar_sumario": true,
