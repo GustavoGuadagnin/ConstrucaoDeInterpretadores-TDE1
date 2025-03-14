@@ -5,10 +5,17 @@
   "validar_xref": true,
   "validar_trailer": true,
   "validar_estrutura_hierarquica": true,
+  "estatisticas": {
+      "contar_objetos": true,
+      "detalhar_tipos_objetos": true,
+      "calcular_tamanho": true,
+      "calcular_overhead": true,
+      "contar_paginas": true
+  },
   "extrair_metadados": true,
-  "nivel_detalhe": "completo"
   "conteudo": {
       "extrair_texto": true,
+      "limite_caracteres": 200,
       "gerar_sumario": true,
       "listar_hierarquia": true,
       "converter_coordenadas": true
@@ -16,6 +23,8 @@
   "analise_avancada": {
       "detectar_objetos_nao_referenciados": true,
       "detectar_ciclos_referencia": false,
-      "analisar_eficiencia_armazenamento": true
+      "analisar_eficiencia_armazenamento": true,
+      "sugerir_otimizacoes": true,
+      "extrair_fontes": true
   }
 }
