@@ -1,61 +1,59 @@
 %SPDF-1.0
 1 0 obj
-<< /Type /Catalog
-/Pages 2 0 R
-/Metadata 7 0 R
-/Outlines 8 0 R
-
-
-
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+  /Metadata 7 0 R
+  /Outlines 8 0 R
+>>
 endobj
-
 2 0 obj
-<< /Type /Pages
-/Kids [3 0 R 4 0 R]
-/Count 2
-
-
-
+<<
+  /Type /Pages
+  /Kids [3 0 R 4 0 R]
+  /Count 2
+>>
 endobj
-
 3 0 obj
-<< /Type /Page
-/Parent 2 0 R
-/Resources << /Font << /F1 5 0 R >> >>
-/MediaBox [0 0 612.0 792.0]
-/CropBox [10.5 10.5 601.5 781.5]
-/Rotate 0
-/Contents 6 0 R
-
-
-
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+    >>
+  >>
+  /MediaBox [0 0 612.0 792.0]
+  /CropBox [10.5 10.5 601.5 781.5]
+  /Rotate 0
+  /Contents 6 0 R
+>>
 endobj
-
 4 0 obj
-<< /Type /Page
-/Parent 2 0 R
-/Resources << /Font << /F1 5 0 R >> >>
-/MediaBox [0 0 612.0 792.0]
-/CropBox [10.5 10.5 601.5 781.5]
-/Rotate 0
-/Contents 9 0 R
-
-
-
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+    >>
+  >>
+  /MediaBox [0 0 612.0 792.0]
+  /CropBox [10.5 10.5 601.5 781.5]
+  /Rotate 0
+  /Contents 9 0 R
+>>
 endobj
-
 5 0 obj
-<< /Type /Font
-/Subtype /Type1
-/BaseFont /Helvetica
-/FontDescriptor 10 0 R
-
-
-
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+  /FontDescriptor 10 0 R
+>>
 endobj
-
 6 0 obj
-<< /Length 180 >>
+<< /Length 192 >>
 stream
 BT
 /F1 24 Tf
@@ -63,123 +61,99 @@ BT
 (Relatório de Desempenho: Segundo Trimestre) Tj
 /F1 12 Tf
 0 -50 Td
-(Total de vendas: 1750 unidades) Tj
+(Total de projetos concluídos: 87 projetos) Tj
 0 -20 Td
-(Receita total: 210678.50 reais) Tj
+(Horas faturadas: 3542.5 horas) Tj
 ET
 endstream
 endobj
-
 7 0 obj
-<< /Title (Relatório de Desempenho Trimestral)
-/Author (Departamento Financeiro)
-/CreationDate (D:20230718090000)
-/Keywords (finanças, desempenho, trimestral)
-/Version 1.3
-/PageCount 2
-
-
-
+<<
+  /Title (Relatório de Desempenho Trimestral)
+  /Author (Departamento de Projetos)
+  /CreationDate (D:20250314120000)
+  /Keywords (projetos, desempenho, produtividade)
+  /Version 1.3
+  /PageCount 2
+>>
 endobj
-
 8 0 obj
-<< /Type /Outlines
-/Count 3
-/First 11 0 R
-/Last 13 0 R
-
-
-
+<<
+  /Type /Outlines
+  /Count 3
+  /First 11 0 R
+  /Last 13 0 R
+>>
 endobj
-
 9 0 obj
-<< /Length 350 >>
+<< /Length 368 >>
 stream
 BT
 /F1 18 Tf
 100 700 Td
-(Análise por Setores) Tj
+(Detalhamento por Equipe) Tj
 /F1 12 Tf
 0 -40 Td
-(Setor A: 720 unidades, valor unitário 95.50, total 68760.00) Tj
+(Equipe Alpha: 32 projetos, média 42.3 horas/projeto, total 1353.6 horas) Tj
 0 -20 Td
-(Setor B: 550 unidades, valor unitário 130.75, total 71912.50) Tj
+(Equipe Beta: 29 projetos, média 38.7 horas/projeto, total 1122.3 horas) Tj
 0 -20 Td
-(Setor C: 480 unidades, valor unitário 120.40, total 57706.00) Tj
+(Equipe Gamma: 26 projetos, média 41.0 horas/projeto, total 1066.6 horas) Tj
 0 -40 Td
-(Média de vendas por setor: 583.33 unidades) Tj
+(Eficiência média: 40.7 horas por projeto) Tj
 ET
 endstream
 endobj
-
 10 0 obj
-<< /Type /FontDescriptor
-/FontName /Helvetica
-/Flags 32
-/FontBBox [-166 -225 1000 931]
-/ItalicAngle 0
-/Ascent 718
-/Descent -207
-/CapHeight 718
-/StemV 88
-/MissingWidth 278
-
-
-
+<<
+  /Type /FontDescriptor
+  /FontName /Helvetica
+  /Flags 32
+  /FontBBox [-166 -225 1000 931]
+  /ItalicAngle 0
+  /Ascent 718
+  /Descent -207
+  /CapHeight 718
+  /StemV 88
+  /MissingWidth 278
+>>
 endobj
-
 11 0 obj
-<< /Title (Resumo Executivo)
-/Parent 8 0 R
-/Next 12 0 R
-/Dest [3 0 R /FitH 792.0]
-
-
-
+<<
+  /Title (Resumo Gerencial)
+  /Parent 8 0 R
+  /Next 12 0 R
+  /Dest [3 0 R /FitH 792.0]
+>>
 endobj
-
 12 0 obj
-<< /Title (Análise de Vendas)
-/Parent 8 0 R
-/Prev 11 0 R
-/Next 13 0 R
-/Dest [4 0 R /FitH 792.0]
-
-
-
+<<
+  /Title (Análise por Equipe)
+  /Parent 8 0 R
+  /Prev 11 0 R
+  /Next 13 0 R
+  /Dest [4 0 R /FitH 792.0]
+>>
 endobj
-
 13 0 obj
-<< /Title (Projeções Futuras)
-/Parent 8 0 R
-/Prev 12 0 R
-/Dest [4 0 R /XYZ 100 450 1.25]
-
-
-
+<<
+  /Title (Metas para Próximo Trimestre)
+  /Parent 8 0 R
+  /Prev 12 0 R
+  /Dest [4 0 R /XYZ 100 450 1.25]
+>>
 endobj
-
 14 0 obj
-<< /Type /Metadata
-/Subtype /XML
-/Length 340
-
-
-
+<<
+  /Type /Metadata
+  /Subtype /XML
+  /Length 340
+>>
 stream
-
-<x:xmpmeta xmlns:x='adobe:ns:meta/'>
-<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
-<rdf:Description rdf:about=''
-xmlns:pdf='http://ns.adobe.com/pdf/1.3/'>
-pdf:ProducerSimplePDF Generator 2.0</pdf:Producer>
-</rdf:Description>
-</rdf:RDF>
-</x:xmpmeta>
-
+    SimplePDF Generator 1.1
+    
 endstream
 endobj
-
 xref
 0 15
 0000000000 65535 f
@@ -189,21 +163,20 @@ xref
 0000000344 00000 n
 0000000525 00000 n
 0000000624 00000 n
-0000000852 00000 n
-0000001048 00000 n
-0000001126 00000 n
-0000001500 00000 n
-0000001712 00000 n
-0000001818 00000 n
-0000001940 00000 n
-0000002052 00000 n
+0000000869 00000 n
+0000001078 00000 n
+0000001156 00000 n
+0000001576 00000 n
+0000001788 00000 n
+0000001893 00000 n
+0000002014 00000 n
+0000002142 00000 n
 trailer
-<< /Size 15
-/Root 1 0 R
-/Info 7 0 R
-
-
-
+<<
+  /Size 15
+  /Root 1 0 R
+  /Info 7 0 R
+>>
 startxref
-2600
+2590
 %%EOF
